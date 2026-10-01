@@ -52,13 +52,4 @@ A simple Python IP scanner tool for Windows that can ping individual IP addresse
 - This script is designed for Windows because it uses `ping -n 1`.
 - The range scan assumes the first three octets are the same for both start and end IPs.
 
-## Optional improvements
-
-- Add IP validation before scanning
-- Support Linux/macOS by switching `ping` flags
-- Add a command-line interface with `argparse`
-- Improve range scanning for different subnets
-
-## License
-
-This project is provided as-is for learning and personal use.
+## Security Researcher - Quincy .O. Omoruyi AKA QuineX
